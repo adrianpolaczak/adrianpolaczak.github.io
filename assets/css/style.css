@@ -4,8 +4,18 @@ body{
      font-family: 'Lato', sans-serif;
 }
 
+.page{
+    color: #E9EAEC;
+}
+
+.title{
+    color: #FAD02C;
+}
+
 .page-navbar.navbar{
     box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    background-color: #FAD02C;
+    color: #000;
 }
 
 .page-navbar .navbar-nav .nav-item a{
@@ -13,11 +23,12 @@ body{
 }
 
 .page-navbar.navbar-dark .navbar-nav .nav-link {
-    color: #fff;
+    color: #000;
 }
 
 .page-navbar .logo{
     font-size: 1.5rem;
+    color: #000;
 }
 
 .page-navbar.fixed-top + .page{
@@ -25,8 +36,8 @@ body{
 }
 
 .download-template{
-    color: #fff;
-    background-color: #ed36ad;
+    color: #E9EAEC;
+    background-color: #333652;
     border: none;
     font-weight: bold;
     text-transform: uppercase;
@@ -36,7 +47,7 @@ body{
 }
 
 .download-template:hover{
-    background-color: #fb5ec4;
+    background-color: #000;
 }
 
 .gradient{
