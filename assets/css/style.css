@@ -6,6 +6,7 @@ body{
 
 .page{
     color: #E9EAEC;
+    background-color: #333652;
 }
 
 .title{
@@ -111,7 +112,7 @@ body{
 }
 
 .cv-block.info .group:not(:first-child){
-    margin-top: 90px;
+    margin-top: 70px;
 }
 
 .cv-block.info .group .period{
@@ -137,7 +138,7 @@ body{
 }
 
 .cv-block.info .group .item{
-    padding-bottom: 10px;
+    padding-bottom: 25px;
     margin-bottom: 25px;
     border-bottom: 1px solid #eee;
 }
@@ -152,7 +153,7 @@ body{
 }
 
 .cv-block.info .work-experience h3,
-.cv-block.info .education h3{
+.cv-block.info .skills h3{
     font-weight: bold;
 }
 
